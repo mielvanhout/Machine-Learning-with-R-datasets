@@ -46,7 +46,7 @@ Chapter 6
 ---------
 challenger.csv from https://archive.ics.uci.edu/ml/machine-learning-databases/space-shuttle/
 
-insurance.csv could not be found online
+insurance.csv from https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/insurance.csv
 
 whitewines.csv from https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/
 
